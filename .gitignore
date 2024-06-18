@@ -1,0 +1,6 @@
+Режим вывода команд на экран (ECHO) включен.
+# Compiled Java classes
+*.classpath
+
+# Maven target directory
+/target/

@@ -7,7 +7,7 @@ public class MT_EncodingDecodingPassword {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String str = "qwerty71";
+		String str = "Qwerty-71";
 
 		byte[] encodedString=Base64.encodeBase64(str.getBytes());
 		System.out.println(encodedString);
